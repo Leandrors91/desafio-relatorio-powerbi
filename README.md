@@ -1,7 +1,7 @@
 # desafio-relatorio-powerbi
-Criando relatório interativo com power bi 
-## Imagens
-![Relatório de vendas](imagens/profit_report)
-![Relatório de vendas](imagens/sales_report)
+Criando relatório interativo com power bi
 ## Referencias
-* Financial Sample do Power BI
+* Financial Sample do Power BI 
+## Imagens
+<img src="images/profit_report.png" alt="Relatório de vendas" width="50%"/>
+<img src="images/sales_report.png" alt="Relatório de lucro" width="50%"/>
